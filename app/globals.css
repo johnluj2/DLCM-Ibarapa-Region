@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme {
+  --color-deep-navy: #0B1C3A;
+  --color-royal-gold: #C9A84C;
+  --color-spirit-white: #F7F5EF;
+  --color-ember-red: #B22222;
+  --color-soft-grey: #6B7280;
+  
+  --font-sans: var(--font-sans), sans-serif;
+  --font-serif: var(--font-serif), Georgia, serif;
+  --font-mono: var(--font-mono), monospace;
+}

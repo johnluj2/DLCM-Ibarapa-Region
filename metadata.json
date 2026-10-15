@@ -1,0 +1,6 @@
+{
+  "name": "DLCM Ibarapa",
+  "description": "Church Website & Admin Dashboard for Deeper Christian Life Ministry, Ibarapa Region. Rooted in the Word. Alive in the Spirit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
